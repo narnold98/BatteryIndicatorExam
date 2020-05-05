@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exam Battery Indicator</string>
+    <string name="decrease_button">-</string>
+    <string name="increase_button">+</string>
+</resources>
